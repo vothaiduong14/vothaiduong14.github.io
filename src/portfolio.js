@@ -58,7 +58,7 @@ const projects = [
   {
     name: 'Project 6',
     description:
-      'Banking data with PostgreSQL and FastAPI',
+      'Banking database with PostgreSQL and FastAPI',
     stack: ['PostgreSQL', 'FastAPI', 'SQLAlchemy', 'Python'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
