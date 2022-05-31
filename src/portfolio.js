@@ -9,7 +9,7 @@ const about = {
   name: 'Duong Vo',
   role: 'Machine Learning Engineer',
   description:
-    'I love mining data, tinkering with technology, hitting balls with my racket and more.',
+    'I love mining data, tinkering with technology, playing tennis and more.',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/duongvothai/',
@@ -25,7 +25,7 @@ const projects = [
     description:
       'LT disease cough detection and automatic labeling on AWS Sagemaker',
     stack: ['AWS Sagemaker', 'Python', 'Pytorch'],
-    sourceCode: 'https://github.com',
+    sourceCode: 'https://github.com/vothaiduong14/LT-cough-detection',
   },
   {
     name: 'Project 2',
@@ -37,25 +37,23 @@ const projects = [
   {
     name: 'Project 3',
     description:
-      'Sentiment Analysis and Network Visualization on US Regulatory data',
-    stack: ['Python', 'SQLite', 'Tensorflow/Keras', 'd3.js', 'Tableau'],
-    sourceCode: 'https://github.com/vothaiduong14/US_Regulatory_Analytics',
+      'Solving lunar lander game with Dueling Deep Q-learning Network',
+    stack: ['Python', 'Pytorch', 'OpenAI Gym'],
+    sourceCode: 'https://github.com/vothaiduong14/RL_lunar_lander',
   },
   {
     name: 'Project 4',
     description:
-      'Banking data with PostgreSQL and FastAPI',
-    stack: ['PostgreSQL', 'FastAPI', 'SQLAlchemy', 'Python'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Sentiment Analysis and Network Visualization on US Regulatory data',
+    stack: ['Python', 'SQLite', 'Tensorflow', 'Keras', 'd3.js', 'Tableau'],
+    sourceCode: 'https://github.com/vothaiduong14/USRegulatory_analytics',
   },
   {
     name: 'Project 5',
     description:
-      'Banking data with PostgreSQL and FastAPI',
-    stack: ['PostgreSQL', 'FastAPI', 'SQLAlchemy', 'Python'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Visualizing Deep Neural Network using Python and Pytorch',
+    stack: ['Python', 'Pytorch'],
+    sourceCode: 'https://github.com/vothaiduong14/DL_network_Viz'
   },
   {
     name: 'Project 6',
